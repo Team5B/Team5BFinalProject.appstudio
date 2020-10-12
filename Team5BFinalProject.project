@@ -23,8 +23,64 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "LoginPage",
+            "LoginPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "HomePage",
+            "HomePage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "CheckInPage",
+            "CheckInPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "CheckOutPage",
+            "CheckOutPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "StarbucksPage",
+            "StarbucksPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "StudyBreakPage",
+            "StudyBreakPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "StudyBuddyPage",
+            "StudyBuddyPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "CalendarPage",
+            "CalendarPage.json"
           ]
         }
       ],
@@ -47,7 +103,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "LoginPage",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
