@@ -27,6 +27,60 @@
         "Elements",
         "lblHome.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "hmbMenu.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "imgProfilePic.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "lblUsername.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "drpLocation.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "btnCheckIn.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "btnCheckOut.json"
+      ]
     }
   ],
   "class": "",

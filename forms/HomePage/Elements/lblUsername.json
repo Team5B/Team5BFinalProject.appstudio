@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblHome",
+  "id": "lblUsername",
   "labelStyle": "text",
-  "left": 85,
+  "left": 119,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 412,
-  "value": "Home page",
+  "top": 207,
+  "value": "Username",
   "width": "auto"
 }
