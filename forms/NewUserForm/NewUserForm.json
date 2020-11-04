@@ -14,9 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "NewUserForm",
         "Elements",
-        "divFullHome.json"
+        "first_name.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NewUserForm",
+        "Elements",
+        "last_name.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NewUserForm",
+        "Elements",
+        "net_id.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NewUserForm",
+        "Elements",
+        "password.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NewUserForm",
+        "Elements",
+        "btnCreateUser.json"
       ]
     }
   ],
@@ -26,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "HomePage",
+  "id": "NewUserForm",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -43,5 +79,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": "320"
+  "width": 320
 }

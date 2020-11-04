@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnCheckOut",
+  "id": "userEnter",
   "left": "auto",
   "mAll": "",
   "mBottom": "",
-  "mLeft": "10%",
-  "mRight": "10%",
+  "mLeft": "60%",
+  "mRight": "20%",
   "mTop": "",
-  "onclick": "btnCheckOut.onclick()",
+  "onclick": "userEnter.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": "auto",
-  "value": "Out",
-  "width": "30%"
+  "value": "Enter",
+  "width": "20%"
 }

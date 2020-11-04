@@ -14,9 +14,18 @@
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "NearbyCoffeePage",
         "Elements",
-        "divFullHome.json"
+        "txtCloseCoffee.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NearbyCoffeePage",
+        "Elements",
+        "lblNearbyCoffee.json"
       ]
     }
   ],
@@ -26,7 +35,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "HomePage",
+  "id": "NearbyCoffeePage",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -34,7 +43,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "NearbyCoffeePage.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
@@ -43,5 +52,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": "320"
+  "width": 320
 }

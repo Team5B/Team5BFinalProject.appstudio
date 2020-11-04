@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblLogIn",
+  "id": "lblNearbyCoffee",
   "labelStyle": "text",
-  "left": 109,
+  "left": 85,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 51,
-  "value": "Log In page",
+  "top": 25,
+  "value": "Coffee Shops Nearby",
   "width": "auto"
 }

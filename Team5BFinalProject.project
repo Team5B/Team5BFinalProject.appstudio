@@ -82,6 +82,30 @@
             "CalendarPage",
             "CalendarPage.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "OpenTablesPage",
+            "OpenTablesPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "NearbyCoffeePage",
+            "NearbyCoffeePage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "NewUserForm",
+            "NewUserForm.json"
+          ]
         }
       ],
       "configxml": null,
@@ -104,7 +128,7 @@
       "expanded_pmp": null,
       "extraheaders": null,
       "firstform": "LoginPage",
-      "fontFamily": "system",
+      "fontFamily": "'Open Sans', sans-serif;",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
       "id": "Team5BFinalProject",
@@ -146,7 +170,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "",
+      "voltAppId": "ajColB",
       "voltDomain": ""
     }
   ],
