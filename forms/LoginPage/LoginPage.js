@@ -39,3 +39,23 @@ if (req.status == 200) { //transit worked.
     } else {        
         NSB.MsgBox(`Error: ${req.status}`)
     }
+
+userEnter.onclick=function(){
+let username = lblusername.value
+let password = lblpassword.value 
+    if allUsers.includes(username)
+    let newIndex = allUsers.findIndex(username)
+  if allpassword.includes(password)
+    let passIndex = allPasswords.findIndex(password)
+    btnHome.onclick=function(){
+    ChangeForm(CheckInPage);
+
+}
+} else {        
+        NSB.MsgBox(`Error: ${req.status}`)
+    } 
+  
+
+btnNewUser.onclick=function(){
+    ChangeForm(NewUserForm)
+}

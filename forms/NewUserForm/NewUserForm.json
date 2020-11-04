@@ -16,7 +16,7 @@
         "forms",
         "NewUserForm",
         "Elements",
-        "Input1.json"
+        "first_name.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "NewUserForm",
         "Elements",
-        "Input1Copy.json"
+        "last_name.json"
       ]
     },
     {
@@ -34,7 +34,7 @@
         "forms",
         "NewUserForm",
         "Elements",
-        "Input1Copy1.json"
+        "net_id.json"
       ]
     },
     {
@@ -43,7 +43,7 @@
         "forms",
         "NewUserForm",
         "Elements",
-        "Input1Copy2.json"
+        "password.json"
       ]
     },
     {
@@ -52,7 +52,7 @@
         "forms",
         "NewUserForm",
         "Elements",
-        "Button1.json"
+        "btnCreateUser.json"
       ]
     }
   ],
