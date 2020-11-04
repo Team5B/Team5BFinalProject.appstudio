@@ -34,34 +34,7 @@
         "forms",
         "LoginPage",
         "Elements",
-        "lblusername.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "LoginPage",
-        "Elements",
-        "lblpassword.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "LoginPage",
-        "Elements",
-        "btnNewUser.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "LoginPage",
-        "Elements",
-        "userEnter.json"
+        "divFull.json"
       ]
     }
   ],

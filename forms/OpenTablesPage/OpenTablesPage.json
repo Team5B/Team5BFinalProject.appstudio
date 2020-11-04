@@ -36,6 +36,24 @@
         "Elements",
         "drpTables.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "OpenTablesPage",
+        "Elements",
+        "divFullTbls.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "OpenTablesPage",
+        "Elements",
+        "divTopTbls.json"
+      ]
     }
   ],
   "class": "",

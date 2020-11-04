@@ -45,8 +45,6 @@ let newpassword = allpassword.includes(password)
 let username = lblusername.value
 let password = lblpassword.value 
     if newpassword = allUsers.includes(username)
-    
-    
     let newIndex = allUsers.findIndex(username)
   if allpassword.includes(password)
     let passIndex = allPasswords.findIndex(password)

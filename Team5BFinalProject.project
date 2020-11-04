@@ -127,8 +127,8 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "NewUserForm",
-      "fontFamily": "system",
+      "firstform": "LoginPage",
+      "fontFamily": "'Open Sans', sans-serif;",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
       "id": "Team5BFinalProject",
@@ -170,7 +170,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "",
+      "voltAppId": "ajColB",
       "voltDomain": ""
     }
   ],

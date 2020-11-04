@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "#6caddf",
+  "backgroundColor": "#00245d",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -29,11 +29,11 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnNewUser",
-  "left": 82,
+  "left": "auto",
   "mAll": "",
   "mBottom": "",
-  "mLeft": "",
-  "mRight": "",
+  "mLeft": "25%",
+  "mRight": "25%",
   "mTop": "",
   "onclick": "btnNewUser.onclick()",
   "onmousedown": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 347,
+  "top": "auto",
   "value": "Create New User ",
-  "width": "auto"
+  "width": "50%"
 }

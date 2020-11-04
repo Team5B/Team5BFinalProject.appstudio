@@ -17,8 +17,9 @@ last_name = last_name.value
     console.log(`Error: ${req.status}`);
   }
   
+
 lblAdded.value = `Your have sucessfully been added, please log in!`
-  
+
   /*
   let newUserAdd = ""
   for (i = 0; i <= results.length - 1; i++)

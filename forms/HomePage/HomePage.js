@@ -1,3 +1,8 @@
-btnNext2.onclick=function(){
+btnCheckIn.onclick=function(){
   ChangeForm(CheckInPage);
+}
+
+
+btnCheckOut.onclick=function(){
+  ChangeForm(CheckOutPage);
 }
