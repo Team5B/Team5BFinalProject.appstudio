@@ -54,6 +54,15 @@
         "Elements",
         "btnCreateUser.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "NewUserForm",
+        "Elements",
+        "lblAdded.json"
+      ]
     }
   ],
   "class": "",
