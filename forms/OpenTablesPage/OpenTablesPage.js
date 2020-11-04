@@ -1,7 +1,4 @@
-let req = ""
-let query = ""
-let results = ""
-let pw = "Bluejay1"
+
 let allBuildings = []
 let allTables = []
 

@@ -14,54 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "LoginPage",
+        "NewUserForm",
         "Elements",
-        "btnHome.json"
+        "Input1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LoginPage",
+        "NewUserForm",
         "Elements",
-        "lblLogIn.json"
+        "Input1Copy.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LoginPage",
+        "NewUserForm",
         "Elements",
-        "lblusername.json"
+        "Input1Copy1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LoginPage",
+        "NewUserForm",
         "Elements",
-        "lblpassword.json"
+        "Input1Copy2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "LoginPage",
+        "NewUserForm",
         "Elements",
-        "btnNewUser.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "LoginPage",
-        "Elements",
-        "userEnter.json"
+        "Button1.json"
       ]
     }
   ],
@@ -71,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "LoginPage",
+  "id": "NewUserForm",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

@@ -98,6 +98,14 @@
             "NearbyCoffeePage",
             "NearbyCoffeePage.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "NewUserForm",
+            "NewUserForm.json"
+          ]
         }
       ],
       "configxml": null,
@@ -119,7 +127,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "NearbyCoffeePage",
+      "firstform": "LoginPage",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
