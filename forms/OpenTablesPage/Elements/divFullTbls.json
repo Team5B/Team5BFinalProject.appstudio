@@ -12,10 +12,20 @@
   "cached_js": "",
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
   "center": "",
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "OpenTablesPage",
+        "Elements",
+        "divTopTbls.json"
+      ]
+    }
+  ],
   "class": "",
   "color": "",
-  "content": "Content",
+  "content": "",
   "display": "",
   "expanded_pmp": null,
   "flexDirection": "",
